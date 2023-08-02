@@ -1,3 +1,12 @@
-div, g-col-1 {
-    color:red;
+body {
+   
+}
+
+div { 
+
+    background:url(C:/Users/losca/OneDrive/Escritorio/horoscopo-piscis.jpg);
+    background-repeat:no-repeat;
+    color:white;
+    background-attachment:fixed;
+    
 }
